@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <!--
+		This is a mock question XML chunk
+	-->
+<questions>
+    <question
+        number="1"
+        text="Have you ever joined Khans?"
+        imageUri="android.resource://triviaquiz.androidbook.com.beentheredonethat/" />
+    <question
+        number="2"
+        text="Have you ever made deal in HUB?"
+        imageUri="android.resource://triviaquiz.androidbook.com.beentheredonethat/" />
+    <question
+        number="3"
+        text="Have you ever bought gun?"
+        imageUri="android.resource://triviaquiz.androidbook.com.beentheredonethat/" />
+    <question
+        number="4"
+        text="Have you ever joined BrotherHood?"
+        imageUri="android.resource://triviaquiz.androidbook.com.beentheredonethat/" />
+    <question
+        number="5"
+        text="Have you ever worked for Crimson Caravan?"
+        imageUri="android.resource://triviaquiz.androidbook.com.beentheredonethat/" />
+    <question
+        number="6"
+        text="Have you ever drank a water?"
+        imageUri="android.resource://triviaquiz.androidbook.com.beentheredonethat/" />
+    <question
+        number="7"
+        text="Have you ever played in Gizmo Casino?"
+        imageUri="android.resource://triviaquiz.androidbook.com.beentheredonethat/" />
+    <question
+        number="8"
+        text="Have you ever been to Shady Sends?"
+        imageUri="android.resource://triviaquiz.androidbook.com.beentheredonethat/" />
+    <question
+        number="9"
+        text="Have you ever been to Junktown?"
+        imageUri="android.resource://triviaquiz.androidbook.com.beentheredonethat/" />
+    <question
+        number="10"
+        text="Have you ever visited The Maltise Falcon?"
+        imageUri="android.resource://triviaquiz.androidbook.com.beentheredonethat/" />
+</questions>
